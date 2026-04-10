@@ -12,7 +12,39 @@
     "title": "Henry Stickmin: Breaking the Bank",
     "description": "The first installment of the Henry Stickmin series. Help Henry break into a high-security bank!",
     "category": "Adventure",
-    "thumbnail": "https://picsum.photos/seed/bank/400/300",
+    "thumbnail": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co847v.jpg",
     "url": "https://unblockedgames66.gitlab.io/breaking-the-bank/"
+  },
+  {
+    "id": "escaping-the-prison",
+    "title": "Henry Stickmin: Escaping the Prison",
+    "description": "The second installment of the Henry Stickmin series. Henry is in prison, and it's up to you to help him escape using various gadgets and choices!",
+    "category": "Adventure",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZGEyYzg5MjYtZGQ3NS00ZWFmLTg4N2QtODdmMzlkMTNiN2ViXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "url": "https://abinbins.github.io/a7/escaping-the-prison"
+  },
+  {
+    "id": "stealing-the-diamond",
+    "title": "Henry Stickmin: Stealing the Diamond",
+    "description": "The third installment of the Henry Stickmin series. Help Henry pull off a daring heist to steal a massive diamond from a museum!",
+    "category": "Adventure",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZTQyMjI1NGEtODk4Yy00NzM4LTg1YjAtMjhiMjlkNjkzNWE0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "url": "https://bitent.com/swf/henry_stickmin_stealing_the_diamond/"
+  },
+  {
+    "id": "infiltrating-the-airship",
+    "title": "Henry Stickmin: Infiltrating the Airship",
+    "description": "The fourth installment of the Henry Stickmin series. Infiltrate a massive airship and decide the fate of the Toppat Clan!",
+    "category": "Adventure",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOGIxNjQwMmEtYzkyNi00NThiLTlmOTktNThjMDcyNWEyYWUzXkEyXkFqcGc@._V1_.jpg",
+    "url": "https://bitent.com/swf/henry_stickmin_infiltrating_the_airship/"
+  },
+  {
+    "id": "fleeing-the-complex",
+    "title": "Henry Stickmin: Fleeing the Complex",
+    "description": "The fifth installment of the Henry Stickmin series. Henry is trapped in a high-security prison complex known as The Wall. Help him escape!",
+    "category": "Adventure",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZTkzNWQzNjQtMTYxZC00YTk3LWE0Y2MtYmNlOWFmZmU3OWZhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "url": "https://kdata1.com/RS/game.php?r=//kdata1.com/2015/11/Fleeing%20the%20Complex.swf&w=800&h=480&warnsupport=true"
   }
 ]

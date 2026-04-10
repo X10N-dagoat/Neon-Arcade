@@ -70,6 +70,7 @@ function renderGames() {
                         alt="${game.title}"
                         class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500"
                         referrerpolicy="no-referrer"
+                        onerror="this.src='https://picsum.photos/seed/${game.id}/400/300'"
                     />
                     <div class="absolute inset-0 bg-gradient-to-t from-[#0a0502] via-transparent to-transparent opacity-60"></div>
                     <div class="absolute top-4 left-4">
