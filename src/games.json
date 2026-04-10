@@ -1,66 +1,18 @@
 [
   {
-    "id": "2048",
-    "title": "2048",
-    "description": "Join the numbers and get to the 2048 tile!",
-    "category": "Puzzle",
-    "thumbnail": "https://picsum.photos/seed/2048/400/300",
-    "url": "https://play2048.co/"
-  },
-  {
-    "id": "hextris",
-    "title": "Hextris",
-    "description": "Fast-paced puzzle game inspired by Tetris.",
-    "category": "Arcade",
-    "thumbnail": "https://picsum.photos/seed/hextris/400/300",
-    "url": "https://hextris.io/"
-  },
-  {
-    "id": "flappy-bird",
-    "title": "Flappy Bird",
-    "description": "Fly through the pipes without hitting them.",
-    "category": "Arcade",
-    "thumbnail": "https://picsum.photos/seed/flappy/400/300",
-    "url": "https://flappybird.io/"
-  },
-  {
-    "id": "snake",
-    "title": "Classic Snake",
-    "description": "Eat the apples and grow as long as you can.",
+    "id": "super-mario-bros",
+    "title": "Super Mario Bros.",
+    "description": "The legendary platformer! Help Mario save Princess Peach from the clutches of Bowser.",
     "category": "Classic",
-    "thumbnail": "https://picsum.photos/seed/snake/400/300",
-    "url": "https://snake.googlemaps.com/"
+    "thumbnail": "https://picsum.photos/seed/mario/400/300",
+    "url": "https://unblockedgames66.gitlab.io/super-mario-bros/"
   },
   {
-    "id": "tetris",
-    "title": "Tetris",
-    "description": "The classic block-stacking puzzle game.",
-    "category": "Classic",
-    "thumbnail": "https://picsum.photos/seed/tetris/400/300",
-    "url": "https://tetris.com/play-tetris"
-  },
-  {
-    "id": "pacman",
-    "title": "Pac-Man",
-    "description": "Chomp pellets and avoid ghosts in the maze.",
-    "category": "Classic",
-    "thumbnail": "https://picsum.photos/seed/pacman/400/300",
-    "url": "https://mainsite-static-resource.s3.amazonaws.com/pacman/index.html"
-  },
-  {
-    "id": "doodle-jump",
-    "title": "Doodle Jump",
-    "description": "Jump as high as you can on platforms.",
-    "category": "Arcade",
-    "thumbnail": "https://picsum.photos/seed/doodle/400/300",
-    "url": "https://doodlejump.io/"
-  },
-  {
-    "id": "paper-io",
-    "title": "Paper.io 2",
-    "description": "Capture as much territory as possible.",
-    "category": "IO",
-    "thumbnail": "https://picsum.photos/seed/paper/400/300",
-    "url": "https://paper-io.com/"
+    "id": "breaking-the-bank",
+    "title": "Henry Stickmin: Breaking the Bank",
+    "description": "The first installment of the Henry Stickmin series. Help Henry break into a high-security bank!",
+    "category": "Adventure",
+    "thumbnail": "https://picsum.photos/seed/bank/400/300",
+    "url": "https://unblockedgames66.gitlab.io/breaking-the-bank/"
   }
 ]
